@@ -15,7 +15,7 @@ Asegúrate de tener instalados los siguientes componentes antes de comenzar:
 Clona o descarga este repositorio en tu máquina local utilizando el siguiente comando.
 
 ```
-git clone https://github.com/Diego2997/Ejercicio2React.git
+git clone https://github.com/Diego2997/Ejercicio1React.git
 ```
 
 Ejecuta el siguiente comando para instalar las dependencias del proyecto:
