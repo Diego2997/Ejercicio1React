@@ -2,7 +2,7 @@
 
 ## DEMO
 
-1. [Proyecto](helloworldreactdm.netlify.app) 
+1. [Proyecto](https://helloworldreactdm.netlify.app/) 
 
 Este es un ejercicio simple que utiliza las siguientes herramientas:
 
